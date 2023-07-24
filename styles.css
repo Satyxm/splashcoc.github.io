@@ -274,6 +274,22 @@ section p:hover{
     transform: translateY(-5px);
 }
 
+footer {
+    background-color: white;
+    color: black;
+    height: 70px;
+}
+
+footer p {
+    padding: 9px;
+    font-size: 14px;
+    text-align: center;
+}
+
+footer p a {
+    color: black;
+}
+
 /*
 footer {
     position: absolute;
