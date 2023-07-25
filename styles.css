@@ -8,6 +8,10 @@
     text-decoration: none;
 }
 
+.index-header {
+   position: fixed;
+}
+
 .logo {
     position: relative;
     display: inline-block;
